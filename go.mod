@@ -1,3 +1,3 @@
-module github.com/dsorvnl/gostudy
+module github.com/dsorvnl/gostudy/v3
 
 go 1.14
